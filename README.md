@@ -9,10 +9,13 @@ To quote @venood12:
 
 thanks for creating and maintaining this Kubernetes files, they're up-to-date (unlike the kubernetes contrib files, don't require helm and work great!
 
-Getting started
-We suggest you to download or clone the repo.
- git clone https://github.com/venoodkhatuva12/kafka-deploy-kubernetes.git
+#Getting started
 
+We suggest you to download or clone the repo.
+ 
+git clone https://github.com/venoodkhatuva12/kafka-deploy-kubernetes.git
+
+#Final commands for deploying
 kubectl apply -f /kafka-deploy-kubernetes
 
 That'll give you client "bootstrap" kafka.namespace.svc.cluster.local:9092.
