@@ -11,7 +11,7 @@ thanks for creating and maintaining this Kubernetes files, they're up-to-date (u
 
 Getting started
 We suggest you to download or clone the repo.
- git clone kafka-deploy-kubernetes
+ git clone https://github.com/venoodkhatuva12/kafka-deploy-kubernetes.git
 
 kubectl apply -f /kafka-deploy-kubernetes
 
